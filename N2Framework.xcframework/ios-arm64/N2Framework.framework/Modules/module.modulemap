@@ -1,0 +1,6 @@
+framework module N2Framework {
+  umbrella header "N2Framework.h"
+  export *
+
+  module * { export * }
+}

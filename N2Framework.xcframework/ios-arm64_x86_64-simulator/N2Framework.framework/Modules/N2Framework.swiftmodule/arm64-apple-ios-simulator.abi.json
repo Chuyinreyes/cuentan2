@@ -1,0 +1,2335 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "N2ManagerDelegate",
+        "printedName": "N2ManagerDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "openURL",
+            "printedName": "openURL(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework0A15ManagerDelegateP7openURLyySSF",
+            "mangledName": "$s11N2Framework0A15ManagerDelegateP7openURLyySSF",
+            "moduleName": "N2Framework",
+            "genericSig": "<τ_0_0 where τ_0_0 : N2Framework.N2ManagerDelegate>",
+            "sugared_genericSig": "<Self where Self : N2Framework.N2ManagerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:11N2Framework0A15ManagerDelegateP",
+        "mangledName": "$s11N2Framework0A15ManagerDelegateP",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "N2Manager",
+        "printedName": "N2Manager",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(env:vc:dl:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "N2Manager",
+                "printedName": "N2Framework.N2Manager",
+                "usr": "c:@M@N2Framework@objc(cs)N2Manager"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TypeOfEnvironmentN2",
+                "printedName": "N2Framework.TypeOfEnvironmentN2",
+                "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any N2Framework.N2ManagerDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "N2ManagerDelegate",
+                    "printedName": "any N2Framework.N2ManagerDelegate",
+                    "usr": "s:11N2Framework0A15ManagerDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11N2Framework0A7ManagerC3env2vc2dlAcA017TypeOfEnvironmentA0O_So16UIViewControllerCSgAA0aC8Delegate_pSgtcfc",
+            "mangledName": "$s11N2Framework0A7ManagerC3env2vc2dlAcA017TypeOfEnvironmentA0O_So16UIViewControllerCSgAA0aC8Delegate_pSgtcfc",
+            "moduleName": "N2Framework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PresentationTypeN2",
+                "printedName": "N2Framework.PresentationTypeN2",
+                "usr": "s:11N2Framework016PresentationTypeA0O"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework0A7ManagerC5startyyAA016PresentationTypeA0OF",
+            "mangledName": "$s11N2Framework0A7ManagerC5startyyAA016PresentationTypeA0OF",
+            "moduleName": "N2Framework",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "N2Manager",
+                "printedName": "N2Framework.N2Manager",
+                "usr": "c:@M@N2Framework@objc(cs)N2Manager"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@N2Framework@objc(cs)N2Manager(im)init",
+            "mangledName": "$s11N2Framework0A7ManagerCACycfc",
+            "moduleName": "N2Framework",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@N2Framework@objc(cs)N2Manager",
+        "mangledName": "$s11N2Framework0A7ManagerC",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PresentationTypeN2",
+        "printedName": "PresentationTypeN2",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "normalPresentation",
+            "printedName": "normalPresentation",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.PresentationTypeN2.Type) -> N2Framework.PresentationTypeN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PresentationTypeN2",
+                    "printedName": "N2Framework.PresentationTypeN2",
+                    "usr": "s:11N2Framework016PresentationTypeA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.PresentationTypeN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PresentationTypeN2",
+                        "printedName": "N2Framework.PresentationTypeN2",
+                        "usr": "s:11N2Framework016PresentationTypeA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework016PresentationTypeA0O06normalC0yA2CmF",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O06normalC0yA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Var",
+            "name": "navControllerPresentation",
+            "printedName": "navControllerPresentation",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.PresentationTypeN2.Type) -> N2Framework.PresentationTypeN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PresentationTypeN2",
+                    "printedName": "N2Framework.PresentationTypeN2",
+                    "usr": "s:11N2Framework016PresentationTypeA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.PresentationTypeN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PresentationTypeN2",
+                        "printedName": "N2Framework.PresentationTypeN2",
+                        "usr": "s:11N2Framework016PresentationTypeA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework016PresentationTypeA0O013navControllerC0yA2CmF",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O013navControllerC0yA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Var",
+            "name": "modalPresentation",
+            "printedName": "modalPresentation",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.PresentationTypeN2.Type) -> N2Framework.PresentationTypeN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PresentationTypeN2",
+                    "printedName": "N2Framework.PresentationTypeN2",
+                    "usr": "s:11N2Framework016PresentationTypeA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.PresentationTypeN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PresentationTypeN2",
+                        "printedName": "N2Framework.PresentationTypeN2",
+                        "usr": "s:11N2Framework016PresentationTypeA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework016PresentationTypeA0O05modalC0yA2CmF",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O05modalC0yA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PresentationTypeN2",
+                "printedName": "N2Framework.PresentationTypeN2",
+                "usr": "s:11N2Framework016PresentationTypeA0O"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PresentationTypeN2",
+                "printedName": "N2Framework.PresentationTypeN2",
+                "usr": "s:11N2Framework016PresentationTypeA0O"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework016PresentationTypeA0O2eeoiySbAC_ACtFZ",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O2eeoiySbAC_ACtFZ",
+            "moduleName": "N2Framework",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11N2Framework016PresentationTypeA0O9hashValueSivp",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O9hashValueSivp",
+            "moduleName": "N2Framework",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11N2Framework016PresentationTypeA0O9hashValueSivg",
+                "mangledName": "$s11N2Framework016PresentationTypeA0O9hashValueSivg",
+                "moduleName": "N2Framework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework016PresentationTypeA0O4hash4intoys6HasherVz_tF",
+            "mangledName": "$s11N2Framework016PresentationTypeA0O4hash4intoys6HasherVz_tF",
+            "moduleName": "N2Framework",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11N2Framework016PresentationTypeA0O",
+        "mangledName": "$s11N2Framework016PresentationTypeA0O",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TypeOfEnvironmentN2",
+        "printedName": "TypeOfEnvironmentN2",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "prod",
+            "printedName": "prod",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.TypeOfEnvironmentN2.Type) -> N2Framework.TypeOfEnvironmentN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TypeOfEnvironmentN2",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2",
+                    "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TypeOfEnvironmentN2",
+                        "printedName": "N2Framework.TypeOfEnvironmentN2",
+                        "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O4prodyA2CmF",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O4prodyA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Var",
+            "name": "preprod",
+            "printedName": "preprod",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.TypeOfEnvironmentN2.Type) -> N2Framework.TypeOfEnvironmentN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TypeOfEnvironmentN2",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2",
+                    "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TypeOfEnvironmentN2",
+                        "printedName": "N2Framework.TypeOfEnvironmentN2",
+                        "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O7preprodyA2CmF",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O7preprodyA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Var",
+            "name": "qa",
+            "printedName": "qa",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.TypeOfEnvironmentN2.Type) -> N2Framework.TypeOfEnvironmentN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TypeOfEnvironmentN2",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2",
+                    "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TypeOfEnvironmentN2",
+                        "printedName": "N2Framework.TypeOfEnvironmentN2",
+                        "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O2qayA2CmF",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O2qayA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Var",
+            "name": "development",
+            "printedName": "development",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(N2Framework.TypeOfEnvironmentN2.Type) -> N2Framework.TypeOfEnvironmentN2",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TypeOfEnvironmentN2",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2",
+                    "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "N2Framework.TypeOfEnvironmentN2.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TypeOfEnvironmentN2",
+                        "printedName": "N2Framework.TypeOfEnvironmentN2",
+                        "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O11developmentyA2CmF",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O11developmentyA2CmF",
+            "moduleName": "N2Framework"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TypeOfEnvironmentN2",
+                "printedName": "N2Framework.TypeOfEnvironmentN2",
+                "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TypeOfEnvironmentN2",
+                "printedName": "N2Framework.TypeOfEnvironmentN2",
+                "usr": "s:11N2Framework017TypeOfEnvironmentA0O"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O2eeoiySbAC_ACtFZ",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O2eeoiySbAC_ACtFZ",
+            "moduleName": "N2Framework",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O9hashValueSivp",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O9hashValueSivp",
+            "moduleName": "N2Framework",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11N2Framework017TypeOfEnvironmentA0O9hashValueSivg",
+                "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O9hashValueSivg",
+                "moduleName": "N2Framework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11N2Framework017TypeOfEnvironmentA0O4hash4intoys6HasherVz_tF",
+            "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O4hash4intoys6HasherVz_tF",
+            "moduleName": "N2Framework",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11N2Framework017TypeOfEnvironmentA0O",
+        "mangledName": "$s11N2Framework017TypeOfEnvironmentA0O",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "StoreKit",
+        "printedName": "StoreKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "QuartzCore",
+        "printedName": "QuartzCore",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "N2Framework"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/SMSSending\/SMSSendingVM.swift",
+      "kind": "IntegerLiteral",
+      "offset": 377,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/SMSSending\/SMSSendingVM.swift",
+      "kind": "IntegerLiteral",
+      "offset": 398,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/SMSSending\/SMSSendingVM.swift",
+      "kind": "StringLiteral",
+      "offset": 129,
+      "length": 12,
+      "value": "\"N2Framework.SMSSendingVM\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "BooleanLiteral",
+      "offset": 718,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1932,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1956,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "FloatLiteral",
+      "offset": 3449,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5640,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5660,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIView+.swift",
+      "kind": "FloatLiteral",
+      "offset": 11361,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 2991,
+      "length": 38,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2Manager.swift",
+      "kind": "StringLiteral",
+      "offset": 248,
+      "length": 9,
+      "value": "\"N2Framework.N2Manager\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPVM.swift",
+      "kind": "BooleanLiteral",
+      "offset": 362,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Gradients\/GradientView.swift",
+      "kind": "StringLiteral",
+      "offset": 132,
+      "length": 12,
+      "value": "\"N2Framework.GradientView\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIPageViewController+.swift",
+      "kind": "BooleanLiteral",
+      "offset": 212,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Extensions\/UIPageViewController+.swift",
+      "kind": "BooleanLiteral",
+      "offset": 617,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 212,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 327,
+      "length": 26,
+      "value": "\"XcVU\/QjG7DFz9AFby1k2lw==\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 461,
+      "length": 26,
+      "value": "\"NPDHA8HztUJYv+MHeGQm7w==\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 516,
+      "length": 38,
+      "value": "\"550ADDB4-51D8-47BD-8F41-4E7A0AAA90DF\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4185,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4211,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4237,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4265,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4185,
+      "length": 5,
+      "value": "\"GET\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4211,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4237,
+      "length": 5,
+      "value": "\"PUT\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4265,
+      "length": 8,
+      "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4441,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4489,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4441,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4489,
+      "length": 15,
+      "value": "\"Authorization\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4579,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/NetworkServices\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 4579,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/OptionsBottomSheet\/CustomBottomSheetViewController.swift",
+      "kind": "Array",
+      "offset": 651,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1615,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1664,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1735,
+      "length": 5,
+      "value": "0.001"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1745,
+      "length": 5,
+      "value": "0.001"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4899,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6268,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AlertViewController.swift",
+      "kind": "Array",
+      "offset": 6306,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/LocationAccessInfo\/LocationAccessInfoAlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 530,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 744,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 831,
+      "length": 3,
+      "value": "171"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 835,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 847,
+      "length": 3,
+      "value": "178"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 851,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 862,
+      "length": 3,
+      "value": "183"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 866,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 922,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1175,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1220,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "FloatLiteral",
+      "offset": 1263,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1318,
+      "length": 3,
+      "value": "224"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1322,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1334,
+      "length": 3,
+      "value": "224"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1338,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1349,
+      "length": 3,
+      "value": "224"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1353,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1365,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1522,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1528,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1538,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1550,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/Components\/CustomTextField\/CustomTextFieldView.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 19,
+      "value": "\"N2Framework.CustomTextFieldView\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPProtocol.swift",
+      "kind": "StringLiteral",
+      "offset": 1509,
+      "length": 16,
+      "value": "\"usuarioIdField\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPProtocol.swift",
+      "kind": "StringLiteral",
+      "offset": 1711,
+      "length": 33,
+      "value": "\"tran_DescEntidadFederativaField\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPProtocol.swift",
+      "kind": "StringLiteral",
+      "offset": 1509,
+      "length": 16,
+      "value": "\"usuarioIdField\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/CURP\/CURPProtocol.swift",
+      "kind": "StringLiteral",
+      "offset": 1711,
+      "length": 33,
+      "value": "\"tran_DescEntidadFederativaField\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/ PostalCode\/PostalCodeViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1761,
+      "length": 38,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/ PostalCode\/PostalCodeViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1829,
+      "length": 12,
+      "value": "\"0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/GeneralAlerts\/Message\/MessageAlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 601,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/AccountQuestion\/AccountQuestionAlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 588,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/PageNavigatorViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1699,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/Alerts\/LocationAccess\/LocationAccessAlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 649,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/DataCapture\/DataCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1392,
+      "length": 38,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/DataCapture\/DataCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1458,
+      "length": 67,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz_@.0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/N2\/PageNavigator\/Pages\/DataCapture\/DataCaptureViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1555,
+      "length": 12,
+      "value": "\"0123456789\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Desktop\/Repositorios\/ios-N2\/N2Framework\/N2Framework\/Resources\/OptionsBottomSheet\/NoticeBottomSheetViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 143,
+      "length": 26,
+      "value": "\"N2Framework.NoticeBottomSheetViewModel\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 704,
+      "length": 24,
+      "value": "\"activityIndicatorColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 888,
+      "length": 16,
+      "value": "\"backgroundCard\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1053,
+      "length": 13,
+      "value": "\"borderColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1225,
+      "length": 18,
+      "value": "\"contentSaveColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1416,
+      "length": 25,
+      "value": "\"elementsBackgroundColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1592,
+      "length": 14,
+      "value": "\"enfasisColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1761,
+      "length": 16,
+      "value": "\"importantColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1926,
+      "length": 13,
+      "value": "\"loaderColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2092,
+      "length": 15,
+      "value": "\"primarioColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2260,
+      "length": 15,
+      "value": "\"progressColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2437,
+      "length": 17,
+      "value": "\"textColorOnCard\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2601,
+      "length": 12,
+      "value": "\"trackColor\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2891,
+      "length": 4,
+      "value": "\"10\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3048,
+      "length": 13,
+      "value": "\"Cerrar_mods\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3216,
+      "length": 14,
+      "value": "\"Editar_lapiz\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3378,
+      "length": 10,
+      "value": "\"Group480\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3536,
+      "length": 10,
+      "value": "\"Grupo279\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3690,
+      "length": 8,
+      "value": "\"GrupoB\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3851,
+      "length": 13,
+      "value": "\"Icono_Check\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4035,
+      "length": 22,
+      "value": "\"Icono_flechadropdown\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4213,
+      "length": 14,
+      "value": "\"LogoBanorTec\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4373,
+      "length": 9,
+      "value": "\"Tooltip\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4545,
+      "length": 18,
+      "value": "\"Tooltip_question\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4705,
+      "length": 7,
+      "value": "\"Union\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4858,
+      "length": 9,
+      "value": "\"banorte\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5029,
+      "length": 18,
+      "value": "\"banortec_full_ok\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5199,
+      "length": 12,
+      "value": "\"checkUnion\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5353,
+      "length": 7,
+      "value": "\"clock\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5504,
+      "length": 8,
+      "value": "\"copiar\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5654,
+      "length": 7,
+      "value": "\"fondo\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5812,
+      "length": 12,
+      "value": "\"idback_icn\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5980,
+      "length": 15,
+      "value": "\"ionic-ios-pin\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6149,
+      "length": 13,
+      "value": "\"locationPin\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6309,
+      "length": 10,
+      "value": "\"lock_icn\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6475,
+      "length": 14,
+      "value": "\"loginwithout\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6642,
+      "length": 13,
+      "value": "\"trazado_473\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6802,
+      "length": 10,
+      "value": "\"user_icn\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6974,
+      "length": 18,
+      "value": "\"white_arrow_back\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7156,
+      "length": 19,
+      "value": "\"white_arrow_back2\""
+    },
+    {
+      "filePath": "\/Users\/danielzamora\/Library\/Developer\/Xcode\/DerivedData\/N2Framework-eolhhrhqgnpfaafkixuvmnoaucgz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/N2Framework\/IntermediateBuildFilesPath\/N2Framework.build\/Release-iphonesimulator\/N2Framework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 7318,
+      "length": 8,
+      "value": "\"x_icon\""
+    }
+  ]
+}

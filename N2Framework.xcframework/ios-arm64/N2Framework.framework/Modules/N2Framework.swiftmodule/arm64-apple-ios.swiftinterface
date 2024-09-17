@@ -1,0 +1,48 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios17.5 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name N2Framework
+import Combine
+import DeveloperToolsSupport
+import Foundation
+@_exported import N2Framework
+import QuartzCore
+import StoreKit
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public protocol N2ManagerDelegate {
+  func openURL(_ urlString: Swift.String)
+}
+@objc public class N2Manager : ObjectiveC.NSObject {
+  public init(env: N2Framework.TypeOfEnvironmentN2, vc: UIKit.UIViewController?, dl: (any N2Framework.N2ManagerDelegate)?)
+  public func start(_ ptype: N2Framework.PresentationTypeN2)
+  @objc deinit
+}
+public enum PresentationTypeN2 {
+  case normalPresentation
+  case navControllerPresentation
+  case modalPresentation
+  public static func == (a: N2Framework.PresentationTypeN2, b: N2Framework.PresentationTypeN2) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum TypeOfEnvironmentN2 {
+  case prod
+  case preprod
+  case qa
+  case development
+  public static func == (a: N2Framework.TypeOfEnvironmentN2, b: N2Framework.TypeOfEnvironmentN2) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension N2Framework.PresentationTypeN2 : Swift.Equatable {}
+extension N2Framework.PresentationTypeN2 : Swift.Hashable {}
+extension N2Framework.TypeOfEnvironmentN2 : Swift.Equatable {}
+extension N2Framework.TypeOfEnvironmentN2 : Swift.Hashable {}
